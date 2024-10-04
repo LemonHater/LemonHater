@@ -6,7 +6,7 @@
 <br>
 <br>
 ## 가능한 것👌
-* **C, C++**
+* **<img src="https://img.shields.io/badge/75acff?style=plastic&logo=c&logoColor=f9fbfe"/>, C++**
 * **Win32 Api**
 * **Python**
 * 
@@ -23,6 +23,8 @@
 * Stack-up
 *
 * 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LemonHater&show_icons=true&theme=radical)
 
 ## Contact
 이메일 : rest753321@gmail.com<br>
