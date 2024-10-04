@@ -6,9 +6,9 @@
 <br>
 <br>
 ## 가능한 것👌
-* **<img src="https://img.shields.io/badge/75acff?style=plastic&logo=c&logoColor=f9fbfe"/>, C++**
-* **Win32 Api**
-* **Python**
+* **<img src="https://img.shields.io/badge/-75acff.svg?style=plastic&logo=c&logoColor=f9fbfe"/> <img src="https://img.shields.io/badge/-75acff.svg?style=plastic&logo=cplusplus&logoColor=f9fbfe"/>**
+* **<img src="https://img.shields.io/badge/Win32-75acff.svg?style=plastic&logo=gitforwindows&logoColor=f9fbfe"/>**
+* **<img src="https://img.shields.io/badge/-75acff.svg?style=plastic&logo=python&logoColor=f9fbfe"/>**
 * 
 <br>
 
@@ -26,6 +26,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LemonHater&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LemonHater&layout=compact)
 ## Contact
 이메일 : rest753321@gmail.com<br>
 노션 : [김재윤의 노션](https://www.notion.so/111284dc854580d282d8d752b3826120?pvs=4)
