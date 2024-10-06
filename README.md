@@ -27,10 +27,13 @@
 >    
 >
 
+GitHub
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LemonHater&show_icons=true&theme=radical)
 
+BaekJoon
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rest753321)](https://solved.ac/rest753321)
 
+Language
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LemonHater&layout=compact)
 ## Contact
 이메일 : rest753321@gmail.com<br>
