@@ -16,7 +16,7 @@
 * 인공지능
 * DirectX11
 * Unreal Engine
-* 
+* javascript
   <br>
 
 ## 나의 커리어🗒
