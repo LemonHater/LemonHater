@@ -9,7 +9,7 @@
 * **<img src="https://img.shields.io/badge/-75acff.svg?style=plastic&logo=c&logoColor=f9fbfe"/> <img src="https://img.shields.io/badge/-75acff.svg?style=plastic&logo=cplusplus&logoColor=f9fbfe"/>**
 * **<img src="https://img.shields.io/badge/Win32-75acff.svg?style=plastic&logo=gitforwindows&logoColor=f9fbfe"/>**
 * **<img src="https://img.shields.io/badge/-75acff.svg?style=plastic&logo=python&logoColor=f9fbfe"/>**
-* 
+* **<img src="https://img.shields.io/badge/-75acff.svg?style=plastic&logo=r&logoColor=f9fbfe"/>**
 <br>
 
 ## 가능하게 만들 것👊
